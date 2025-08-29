@@ -1,0 +1,11 @@
+{
+  "name": "Tasks — PWA",
+  "short_name": "Tasks",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    { "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Crect width='128' height='128' rx='28' fill='%230ea5e9'/%3E%3Cpath d='M36 64l16 16 40-40' stroke='white' stroke-width='12' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E", "sizes": "128x128", "type": "image/svg+xml", "purpose":"any maskable" }
+  ]
+}
